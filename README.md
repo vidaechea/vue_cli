@@ -1,6 +1,14 @@
-# vue_cli
+# Vue Cli - Login
 
-> Vue.js PoC Project
+> Vue.js PoC Login component in vue.js and bootstrap 4
+
+## Installation
+
+``` bash
+npm install -g vue-cli
+
+vue init webpack project_name
+``
 
 ## Build Setup
 
@@ -27,4 +35,4 @@ npm run e2e
 npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
